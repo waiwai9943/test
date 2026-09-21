@@ -12,7 +12,6 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 PC added
 laptop edits
 merged
-
 trying rebase in laptop
-
 wwtttff testing rebase
+revised PC added.
